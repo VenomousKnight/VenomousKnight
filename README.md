@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Java development.
+- 🌱 I’m currently learning all I can.
+- 👯  Looking to collaborate with other developers and creators. 
+- 🤔 I’m looking for help with getting hired as a java developer.
 
 <!--
 **VenomousKnight/VenomousKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
